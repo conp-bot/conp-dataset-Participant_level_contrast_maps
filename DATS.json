@@ -33,6 +33,7 @@
             },
             "access": {
                 "landingPage": "https://osf.io/pny28/",
+                "accessURL": "https://files.us.osf.io/v1/resources/pny28/providers/osfstorage/?zip=",
                 "authorizations": [
                   {
                     "value": "public"
